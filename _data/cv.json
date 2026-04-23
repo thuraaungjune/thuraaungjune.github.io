@@ -1,152 +1,199 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Thura Aung",
+    "label": "Low-resource Southeast Asian NLP researcher",
+    "email": "thuraaung.ai.mdy@gmail.com",
+    "phone": "+66 82-994-8011",
+    "website": "https://thuraaungjune.github.io",
+    "summary": "Low-resource Southeast Asian NLP researcher focused on Burmese, multilingual multimodal LLMs, and dataset creation and evaluation for under-resourced languages.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Bangkok",
+      "countryCode": "TH",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "HmxWLKUAAAAJ",
+        "url": "https://scholar.google.com/citations?user=HmxWLKUAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ThuraAung1601",
+        "url": "https://github.com/ThuraAung1601"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "thura-aung",
+        "url": "https://www.linkedin.com/in/thura-aung/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "AI Singapore & VISTEC",
+      "position": "AI Engineer Intern",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "summary": "Part-time research on Southeast Asian language evaluation and Burmese NLP.",
+      "highlights": [
+        "Translated instruction-following datasets for Burmese LLM evaluation.",
+        "Built evaluation datasets for seven Burmese NLP tasks.",
+        "Evaluated Burmese NLP benchmarks for LLMs."
+      ]
+    },
+    {
+      "company": "Looloo Technology",
+      "position": "Machine Learning Engineer",
+      "startDate": "2025-06-01",
+      "endDate": "2025-12-01",
+      "summary": "Part-time ML work on Thai speech and text systems.",
+      "highlights": [
+        "Finetuned speech-augmented language modeling for Thai language.",
+        "Created synthetic Thai speech datasets with 25k sentences using Thai TTS.",
+        "Built evaluation pipelines for Thai TTS systems."
+      ]
+    },
+    {
+      "company": "Language Understanding Laboratory",
+      "position": "Lab. Member",
+      "startDate": "2022-06-01",
+      "endDate": "",
+      "summary": "Research on Burmese corpora, OCR, language modeling, and evaluation.",
+      "highlights": [
+        "Built large-scale Myanmar corpora for OCR and language modeling.",
+        "Supervised speech corpus creation for the medical domain.",
+        "Fine-tuned transformer models for sequence and token classification tasks.",
+        "Reproduced experiments for myNLP, the first Burmese NLP toolkit."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "King Mongkut's Institute of Technology Ladkrabang",
+      "area": "B.Eng. in Software Engineering, Specialized in Artificial Intelligence",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2023-07-01",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Language Proficiency",
+      "keywords": ["Burmese (Native)", "English (Professional Fluency)"]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "Rust", "C/C++", "Java", "JavaScript", "SQL", "Prolog"]
+    },
+    {
+      "name": "Data Tools",
+      "keywords": ["NumPy", "Pandas", "SciPy"]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": ["Git", "Docker", "VS Code", "AWS SageMaker"]
+    },
+    {
+      "name": "Frameworks and Libraries",
+      "keywords": ["PyTorch", "TensorFlow", "OpenCV", "spaCy", "NLTK", "LangChain", "OpenNMT", "FastAPI", "MLflow"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "myMedi-Whisper: Construction of Burmese Medical Speech Corpus and Whisper Fine-Tuning for Clinical Dialogue ASR",
+      "publisher": "Under Review",
+      "releaseDate": "2025-01-01",
+      "website": "https://github.com/ThuraAung1601",
+      "summary": "Construction of a Burmese medical speech corpus and Whisper fine-tuning for clinical dialogue ASR."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "SEA-BED: How Do Embedding Models Represent Southeast Asian Languages?",
+      "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "https://arxiv.org/abs/2508.12243",
+      "summary": "Studying how embedding models represent Southeast Asian languages."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Burmese-SAN: Burmese NLP Benchmark for Evaluating Large Language Models",
+      "publisher": "Language Resources and Evaluation Conference (LREC 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "https://arxiv.org/html/2602.18788v1",
+      "summary": "Benchmarking large language models on Burmese NLP tasks."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Enhancing Burmese News Classification using Kolmogorov-Arnold Head Finetuning",
+      "publisher": "20th IEEE International Joint Symposium on Artificial Intelligence and Natural Language Processing",
+      "releaseDate": "2025-01-01",
+      "website": "https://ieeexplore.ieee.org/document/11320512",
+      "summary": "Burmese news classification with Kolmogorov-Arnold head finetuning."
+    },
+    {
+      "name": "ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features",
+      "publisher": "20th IEEE International Joint Symposium on Artificial Intelligence and Natural Language Processing",
+      "releaseDate": "2025-01-01",
+      "website": "https://ieeexplore.ieee.org/document/11320540",
+      "summary": "Low-resource Burmese ASR error correction with phonetic features."
+    },
+    {
+      "name": "myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging",
+      "publisher": "4th IEEE International Conference on Cybernetics and Innovations",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1109/ICCI64209.2025.10987237",
+      "summary": "Contextualized Burmese named entity recognition with joint POS tagging."
+    },
+    {
+      "name": "myOCR: Optical Character Recognition for Myanmar Language with Post OCR Correction",
+      "publisher": "19th IEEE International Joint Symposium on Artificial Intelligence and Natural Language Processing",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1109/iSAI-NLP64410.2024.10799448",
+      "summary": "Myanmar OCR with post-OCR correction."
+    },
+    {
+      "name": "myContradict: Semi-supervised Contradictory Sentence Generation for Myanmar Language",
+      "publisher": "19th IEEE International Joint Symposium on Artificial Intelligence and Natural Language Processing",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.1109/iSAI-NLP64410.2024.10799350",
+      "summary": "Semi-supervised contradictory sentence generation for Myanmar language."
+    },
+    {
+      "name": "Neural Sequence Labeling Based Sentence Segmentation for Myanmar Language",
+      "publisher": "12th CITA 2023",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.1007/978-3-031-36886-8_24",
+      "summary": "Sequence labeling for Myanmar sentence segmentation."
+    },
+    {
+      "name": "mySentence: Sentence Segmentation for Myanmar Language using Neural Machine Translation Approach",
+      "publisher": "Journal of Intelligent Informatics and Smart Technology",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.14456/jiist.2023.2",
+      "summary": "Sentence segmentation for Myanmar language using NMT."
+    },
+    {
+      "name": "KAConvText: Novel Approach to Burmese Sentence Classification using Kolmogorov-Arnold Convolution",
+      "publisher": "arXiv",
+      "releaseDate": "2025-07-01",
+      "website": "https://doi.org/10.48550/arXiv.2507.06753",
+      "summary": "Burmese sentence classification with Kolmogorov-Arnold convolution."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Elementary System Programming (Rust)",
+      "institution": "King Mongkut's Institute of Technology Ladkrabang",
+      "date": "2024-06-01",
+      "role": "Teaching Assistant",
+      "description": "Supported 30+ freshmen in systems programming using Rust, assisted weekly labs, and conducted pre-session workshops on Rust syntax, compiler tools, and Cargo workflows."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

@@ -9,56 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.Eng. in Software Engineering, specialized in Artificial Intelligence, King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand, July 2023 -- Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI Engineer Intern, AI Singapore & VISTEC, Part-time, Singapore, April 2025 -- Present
+  * Participating in Southeast Asian LLM research.
+  * Translated instruction-following datasets for Burmese LLM evaluation.
+  * Built evaluation datasets for seven Burmese NLP tasks.
+  * Evaluated Burmese NLP benchmarks for LLMs.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine Learning Engineer, Looloo Technology, Part-time, Bangkok, Thailand, June 2025 -- Dec 2025
+  * Finetuned speech-augmented language modeling for Thai language.
+  * Created synthetic Thai speech datasets with 25k sentences using Thai TTS.
+  * Built evaluation pipelines for Thai TTS systems.
+
+* Lab. Member, Language Understanding Laboratory, Part-time, Remote, June 2022 -- Present
+  * Built large-scale Myanmar corpora for OCR and language modeling.
+  * Supervised speech corpus creation for the medical domain.
+  * Fine-tuned transformer models for sequence and token classification tasks.
+  * Reproduced experiments for myNLP, the first Burmese NLP toolkit.
+
+## Achievements
+
+* Full Scholarship: Child's Dream Foundation Scholarship covering tuition, living expenses, and other expenses.
+* Hackathon Winner: Season 2 Championship Award (50,000 THB) for the 42 Bangkok x CDG Group Hackathon.
+* Best Paper Award: 20th IEEE iSAI-NLP Conference and 10th Anniversary of the Artificial Intelligence Association Thailand.
+
+## Teaching Experience
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Publications
+
+### Peer-reviewed International Conferences
+<ul>{% for post in site.publications reversed %}{% if post.category == 'conferences' %}{% include archive-single-cv.html %}{% endif %}{% endfor %}</ul>
+
+### Journal Articles
+<ul>{% for post in site.publications reversed %}{% if post.category == 'manuscripts' %}{% include archive-single-cv.html %}{% endif %}{% endfor %}</ul>
+
+## Skills
+
+* Language Proficiency: Burmese (Native), English (Professional Fluency)
+* Programming Languages: Python, Rust, C/C++, Java, JavaScript, SQL, Prolog
+* Data Tools: NumPy, Pandas, SciPy
+* Developer Tools: Git, Docker, VS Code, AWS SageMaker
+* Frameworks and Libraries: PyTorch, TensorFlow, OpenCV, spaCy, NLTK, LangChain, OpenNMT, FastAPI, MLflow
