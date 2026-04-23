@@ -8,5 +8,3 @@ venue: "Journal of Intelligent Informatics and Smart Technology"
 paperurl: "https://doi.org/10.14456/jiist.2023.2"
 citation: 'Thura Aung, Ye Kyaw Thu, and Zar Zar Hlaing. (2023). "mySentence: Sentence Segmentation for Myanmar Language using Neural Machine Translation Approach."'
 ---
-
-Sentence segmentation for Myanmar language using NMT.

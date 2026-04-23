@@ -8,5 +8,3 @@ venue: "20th IEEE International Joint Symposium on Artificial Intelligence and N
 paperurl: "https://ieeexplore.ieee.org/document/11320540"
 citation: 'Thura Aung, Ye Bhone Lin, Ye Kyaw Thu, and Thazin Myint Oo. (2025). "ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features."'
 ---
-
-Low-resource Burmese ASR error correction with phonetic features.
