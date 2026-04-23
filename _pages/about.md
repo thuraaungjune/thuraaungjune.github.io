@@ -15,18 +15,18 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 
 > **I am open to research collaborations and actively seeking PhD opportunities.**
 
-## News
-
-* I will be visiting [NUS WING Lab](https://wing.comp.nus.edu.sg/) this summer (May–July) as a research intern under Tongyao Zhu (PhD candidate) and Assoc. Prof. Dr. Min-Yen Kan.
-* Our paper [SEA-BED](https://arxiv.org/abs/2508.12243) has been accepted to the ACL 2026 Main Conference.
-* Our paper [Burmese-SAN](https://arxiv.org/abs/2602.18788) has been accepted for an oral presentation at LREC 2026.
-
 ## Research Interest
 
 - Low-resource Burmese NLP and speech processing
 - NLP for Healthcare and clinical Applications
 - Multilingual and multimodal LLM evaluation, especially for Southeast Asian languages
 - Dataset creation for under-resourced Southeast Asian languages
+
+## News
+
+* I will be visiting [NUS WING Lab](https://wing.comp.nus.edu.sg/) this summer (May–July) as a research intern under Tongyao Zhu (PhD candidate) and Assoc. Prof. Dr. Min-Yen Kan.
+* Our paper [SEA-BED](https://arxiv.org/abs/2508.12243) has been accepted to the ACL 2026 Main Conference.
+* Our paper [Burmese-SAN](https://arxiv.org/abs/2602.18788) has been accepted for an oral presentation at LREC 2026.
 
 ## Selected highlights
 
