@@ -3,10 +3,9 @@ permalink: /
 title: "Thura Aung"
 author_profile: true
 ---
+I am an undergraduate student studying Software Engineering with a specialization in Artificial Intelligence at King Mongkut’s Institute of Technology Ladkrabang. My recent work includes Burmese NLP research at NECTEC, Southeast Asian LLM research with AISG and VISTEC, and speech recognition at Looloo Tech.
 
 I work on low-resource **Southeast Asian NLP**, with a particular focus on Burmese. My research spans multilingual and multimodal large language models, Burmese NLP benchmark creation, dataset development and evaluation, speech and text processing, and methods for improving generalization in data-scarce settings.
-
-I am currently studying Software Engineering with a specialization in Artificial Intelligence at King Mongkut’s Institute of Technology Ladkrabang. My recent work includes Burmese NLP research at NECTEC, Southeast Asian LLM research with AISG and VISTEC, and speech recognition at Looloo Tech.
 
 I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC and the LU Lab, and [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) at AISG/NUS. I was also previously supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Thu Htet from Mahidol University during my work at Looloo Tech.
 
