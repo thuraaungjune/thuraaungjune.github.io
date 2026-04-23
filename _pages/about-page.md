@@ -1,7 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: "Thura Aung"
 author_profile: true
+redirect_from:
+  - /about.html
 ---
 
 I work on low-resource **Southeast Asian NLP**, with a particular focus on Burmese. My research spans multilingual and multimodal large language models, Burmese NLP benchmark creation, dataset development and evaluation, speech and text processing, and methods for improving generalization in data-scarce settings.
@@ -36,4 +38,3 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 - Email: [thuraaung.ai.mdy@gmail.com](mailto:thuraaung.ai.mdy@gmail.com)
 - GitHub: [ThuraAung1601](https://github.com/ThuraAung1601)
 - LinkedIn: [thura-aung](https://www.linkedin.com/in/thura-aung/)
-
