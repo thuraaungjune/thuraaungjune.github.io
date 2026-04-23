@@ -36,5 +36,5 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 ## Contact
 
 - Email: [thuraaung.ai.mdy@gmail.com](mailto:thuraaung.ai.mdy@gmail.com)
-- GitHub: [ThuraAung1601](https://github.com/ThuraAung1601)
+- GitHub: [ThuraAung1601](https://github.com/thuraaungjune)
 - LinkedIn: [thura-aung](https://www.linkedin.com/in/thura-aung/)
