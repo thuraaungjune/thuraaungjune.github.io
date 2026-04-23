@@ -15,13 +15,14 @@ redirect_from:
 
 ## Research Experience
 
-* AI Engineer Intern, AI Singapore & VISTEC, Part-time, Singapore, April 2025 -- Present
+* AI Research Intern, AI Singapore & VISTEC, Part-time, Singapore, April 2025 -- Present
   * Participating in Southeast Asian LLM research.
   * Translated instruction-following datasets for Burmese LLM evaluation.
   * Built evaluation datasets for seven Burmese NLP tasks.
   * Evaluated Burmese NLP benchmarks for LLMs.
 
 * Machine Learning Engineer, Looloo Technology, Part-time, Bangkok, Thailand, June 2025 -- Dec 2025
+  * Finetuned Flow Matching Transformer models for Thai TTS.
   * Finetuned speech-augmented language modeling for Thai language.
   * Created synthetic Thai speech datasets with 25k sentences using Thai TTS.
   * Built evaluation pipelines for Thai TTS systems.
