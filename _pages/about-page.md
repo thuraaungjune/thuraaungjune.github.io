@@ -39,4 +39,4 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 - Email: [thuraaung.ai.mdy@gmail.com](mailto:thuraaung.ai.mdy@gmail.com)
 - GitHub: [thuraaungjune](https://github.com/thuraaungjune)
 - LinkedIn: [thura-aung](https://www.linkedin.com/in/thura-aung/)
-- Google Scholar: [Scholar](https://scholar.google.com/citations?user=HmxWLKUAAAAJ&hl=en)
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=HmxWLKUAAAAJ&hl=en)
