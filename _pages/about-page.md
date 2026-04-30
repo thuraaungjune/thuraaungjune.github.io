@@ -7,7 +7,7 @@ redirect_from:
 ---
 I am an undergraduate student in Software Engineering (Artificial Intelligence Track) at King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand. My research focuses on low-resource Southeast Asian NLP, with a particular emphasis on Burmese, spanning multilingual language models, speech recognition, and dataset and benchmark development.
 
-I have conducted research on Burmese NLP at NECTEC, worked on Southeast Asian large language models with AISG and VISTEC, and contributed to speech recognition systems at Looloo Tech. My work centers on building and evaluating models in data-scarce settings, with an emphasis on improving generalization and robustness.
+I have conducted research on Burmese NLP at [NECTEC](https://www.nectec.or.th/), worked on Southeast Asian large language models with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/), and contributed to speech recognition systems at Looloo Tech. My work centers on building and evaluating models in data-scarce settings, with an emphasis on improving generalization and robustness.
 
 My broader research interest lies in developing reliable and efficient language technologies for underrepresented languages. I am particularly interested in multilingual and multicultural LLMs, evaluation in low-resource settings, and methods for adapting and improving models under real-world constraints.
 
