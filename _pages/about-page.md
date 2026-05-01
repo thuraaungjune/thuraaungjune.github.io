@@ -9,7 +9,7 @@ I am an undergraduate student in Software Engineering (Artificial Intelligence T
 
 I have conducted research on Burmese NLP at [NECTEC](https://www.nectec.or.th/), worked on Southeast Asian large language models with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/), and contributed to speech recognition systems at Looloo Tech. My work centers on building and evaluating models in data-scarce settings, with an emphasis on improving generalization and robustness.
 
-My broader research interest lies in developing reliable and efficient language technologies for underrepresented languages. I am particularly interested in multilingual and multicultural LLMs, evaluation in low-resource settings, and methods for adapting and improving models under real-world constraints. I value research that goes beyond experimentation to building usable systems and resources. I have been involved in dataset creation, benchmarking, and model development, and I aim to lead projects that contribute practical tools or open-source resources for the community.
+I value research that goes beyond experimentation to building usable systems and resources. I have been involved in dataset creation, benchmarking, and model development, and I aim to lead projects that contribute practical tools or open-source resources for the community.
 
 I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC and the LU Lab, and [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) at AISG/NUS. I was also previously supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Thu Htet from Mahidol University during my work at Looloo Tech.
 
