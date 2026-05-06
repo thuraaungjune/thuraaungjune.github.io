@@ -13,10 +13,9 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 
 ## Research Interest
 
-- Low-resource NLP for Southeast Asian languages, with a focus on Burmese
-- Multilingual and multicultural large language models
-- Evaluation and benchmarking of LLMs in low-resource settings
-- Dataset and resource creation for underrepresented languages
+- Low-resource NLP and resource creation for underrepresented Southeast Asian languages, with a focus on Burmese
+- Multilingual multicultural multimodal LLM benchmark evaluation and development
+- AI for Social Good (Safety, Healthcare, and Education)
 
 ## News
 
