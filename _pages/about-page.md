@@ -19,15 +19,6 @@ I am fortunate to be supervised by [Dr. Ye Kyaw Thu](https://sites.google.com/si
 - Multilingual multicultural multimodal LLM benchmark evaluation and development
 - AI for Social Good (Safety, Healthcare, and Education)
 
-> **I am actively seeking MS-PhD or PhD opportunities and research collaborations in NLP and large language models.**
-
-## Research Interest
-
-- Low-resource NLP for Southeast Asian languages, with a focus on Burmese
-- Multilingual and multicultural large language models
-- Evaluation and benchmarking of LLMs in low-resource settings
-- Dataset and resource creation for underrepresented languages
-
 ## News
 
 * I will be visiting [WING@NUS Lab](https://wing.comp.nus.edu.sg/), National University of Singapore, this summer (May–July) as a research intern under Tongyao Zhu (PhD candidate) and Assoc. Prof. Dr. Min-Yen Kan.
