@@ -15,7 +15,7 @@ redirect_from:
 
 ## Research Experience
 
-* Visiting Scholar (Summer Research Intern), WING@NUS Lab, National University of Singapore, Singapore, May 2026 -- July 2026
+* Visiting Scholar (Summer Research Intern), National University of Singapore, Singapore, May 2026 -- July 2026
   * Developed DIVA (Diversity-Informed Visual Active Learning), an active learning framework for generative Vision-Language Models (VLMs) that combines model uncertainty filtering with visual diversity clustering on final-layer hidden states.
   * Applied DIVA to low-resource cursive OCR for historical Jawi script, addressing language bias toward Arabic, visual degradation, and data inefficiency in VLM fine-tuning.
   * Benchmarked DIVA against existing active learning methods on historical Jawi document line datasets.
