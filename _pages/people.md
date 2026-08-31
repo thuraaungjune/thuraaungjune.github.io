@@ -17,7 +17,7 @@ I am fortunate to work with a wonderful group of supervisors, mentees, and colla
 - Natthapong Jungteerapanich, Assistant Professor, KMITL (at KMITL for FYP)
 
 ## Mentees
-### Group at LU. Lab
+### myMediX Group at LU. Lab
 Our group focused on benchmarking and resource development for Burmese NLP especially for Health Communication.
 - Ye Bhone Lin at LU. Lab (--> M.Sc student at KMUTT, Thailand)
 - Aung Sett Paing at LU. Lab (CMKL University, Thailand)
