@@ -1,29 +1,27 @@
 ---
-permalink: /people/
-title: "People"
+permalink: /group/
+title: "Group"
 author_profile: true
+redirect_from:
+  - /people/
 ---
 
-I am fortunate to work with a wonderful group of supervisors, mentees, and collaborators throughout my research journey.
+I am fortunate to work with a wonderful group of collaborators throughout my research journey. Currently, I am actively participating in the following research groups and projects.
 
-## Supervisors
-- Ye Kyaw Thu, Visiting Professor, NECTEC (at LU. Lab.)
-- Peerat Limkonchotiwat, Research Fellow, AISG-NTUsg (at AISG)
-- Titipat Achakulvisut, Assistant Professor, Mahidol University (at Looloo Tech) 
-- Zaw Htet Aung, Lecturer, Mahidol University (at Looloo Tech)
-- Min-Yen Kan, Associate Professor, National University of Singapore (NUS)
-- Tongyao Zhu, PhD Candidate, National University of Singapore (NUS)
-- Visit Hirankitti, Assistant Professor, KMITL (at KMITL for Year 3 Project)
-- Natthapong Jungteerapanich, Assistant Professor, KMITL (at KMITL for FYP)
-
-## Mentees
-### myMediX Group at LU. Lab
-Our group focused on benchmarking and resource development for Burmese NLP especially for Health Communication.
+## Ongoing Research Groups & Projects
+### myMediX Group (at LU. Lab)
+Our group focuses on benchmarking and resource development for Burmese NLP, especially for health communication, with our own direction toward medical benchmarks and medical agents. I am responsible for leading the group and mentoring group members through their research and publications.
 - Ye Bhone Lin at LU. Lab (--> M.Sc student at KMUTT, Thailand)
 - Aung Sett Paing at LU. Lab (CMKL University, Thailand)
 - Min Thiha Tun at LU. Lab (--> Bachelor's student at Telkom, Indonesia)
 
-## Reading Group
+### Proof Synthesis with LLM (at KMITL)
+I am working with Natavee Pecharat, under the supervision of Asst. Prof. Dr. Natthapong Jungteerapanich, on LLM-based approaches to proof synthesis for program verification. This is our Final Year Project (FYP).
+
+### BurmeseOCRBench Group (at KMUTT x Parami Uni)
+The group is led by Dr. Aye Hninn Khine, a Lecturer at KMUTT, as a research collaboration between KMUTT and Parami University students. We are focusing on developing a multi-domain, multi-task Burmese OCR benchmark. I am responsible for coordinating the literature review and academic writing, and for helping other student members learn research methodology and develop their research skills.
+
+### Reading Group
 
 <table>
   <thead>

@@ -3,19 +3,19 @@ permalink: /
 title: "Thura Aung"
 author_profile: true
 ---
-I am an undergraduate student in Software Engineering (Artificial Intelligence Track) at King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand, focused on building usable systems and resources rather than experimentation alone.
+I am an undergraduate student in Software Engineering (Artificial Intelligence Track) at King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand. 
 
-My research spans Burmese NLP at [NECTEC](https://www.nectec.or.th/), Southeast Asian LLMs with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/), and speech systems at Looloo Tech, most recently as a summer 2026 research intern at [WING@NUS Lab](https://wing.comp.nus.edu.sg/), National University of Singapore. I focus on building and evaluating models in data-scarce settings.
+My research spans Burmese NLP at [NECTEC](https://www.nectec.or.th/), Southeast Asian LLMs with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/), and speech systems at Looloo Tech, most recently as a summer 2026 research intern at [WING@NUS Lab](https://wing.comp.nus.edu.sg/), National University of Singapore, focusing on Low-resource NLP. My work centers on building and evaluating models in data-scarce settings, with an emphasis on improving generalization and robustness.
 
-I'm fortunate to be advised by researchers across NECTEC, AISG/NUS, WING@NUS, KMITL, and Mahidol University — see the full list on my [People](/people/) page.
+I'm fortunate to be advised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC, [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) during my AISG internship, and Assoc. Prof. Dr. Min-Yen Kan and Tongyao Zhu during my summer visit to WING@NUS. I was also supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Htet Aung (Mahidol University) during my work at Looloo Technology. At KMITL, I am supervised by Asst. Prof. Dr. Natthapong Jungteerapanich for FYP project.
 
-You can find my full [CV here](/cv/).
+You can find my full [CV here](/cv/). I am also open to research collaborations across the areas my research spans. You can find my ongoing projects on my [Group](/group/) page.
 
-> **I am actively seeking MS-PhD or PhD opportunities in NLP for social intelligence, for Fall 2027 admission. I am also open to research collaborations on topics related to my research interests.**
+> **I am actively seeking MS-PhD or PhD opportunities for Fall 2027 admission, focused on low-resource NLP for social intelligence.**
 
 ## Research Interest
 
-- Low-resource NLP and resource creation for underrepresented Southeast Asian languages, with a focus on Burmese
+- Low-resource NLP and resource creation for underrepresented languages
 - Multilingual, multicultural, and multimodal LLM benchmarking
 - Large Language Models based Reasoning
 
