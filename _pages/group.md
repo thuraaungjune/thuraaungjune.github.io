@@ -21,7 +21,7 @@ I am working with Natavee Pecharat, under the supervision of Asst. Prof. Dr. Nat
 ### BurmeseOCRBench Group (at KMUTT x Parami Uni)
 The group is led by Dr. Aye Hninn Khine, a Lecturer at KMUTT, as a research collaboration between KMUTT and Parami University students. We are focusing on developing a multi-domain, multi-task Burmese OCR benchmark. I am responsible for coordinating the literature review and academic writing, and for helping other student members learn research methodology and develop their research skills.
 
-### Reading Group
+## Reading Group
 
 <table>
   <thead>
