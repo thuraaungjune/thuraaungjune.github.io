@@ -9,7 +9,7 @@ author_profile: true
 - Peerat Limkonchotiwat, Research Fellow, AISG-NTUsg (at AISG)
 - Titipat Achakulvisut, Assistant Professor, Mahidol University (at Looloo Tech) 
 - Zaw Htet Aung, Lecturer, Mahidol University (at Looloo Tech)
-- Min Yen-Kan, Associate Professor, National University of Singapore (NUS)
+- Min-Yen Kan, Associate Professor, National University of Singapore (NUS)
 - Tongyao Zhu, PhD Candidate, National University of Singapore (NUS)
 - Visit Hirankitti, Assistant Professor, KMITL (at KMITL for Year 3 Project)
 - Natthapong Jungteerapanich, Assistant Professor, KMITL (at KMITL for FYP)
