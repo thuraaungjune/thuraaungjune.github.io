@@ -46,6 +46,8 @@ redirect_from:
 * Full Scholarship: Child's Dream Foundation Scholarship covering tuition, living expenses, and other expenses.
 * Hackathon Winner: Season 2 Championship Award (50,000 THB) for the 42 Bangkok x CDG Group Hackathon.
 * Best Paper Award: 20th IEEE iSAI-NLP Conference and 10th Anniversary of the Artificial Intelligence Association Thailand.
+* Summer Research Internship: Awarded by NUS SoC with monthly stipend of 2,000 SGD for summer research visit.
+* KMITL Abroad Study Scholarship: Awarded by KMITL SIIE for intern visit to NUS.
 
 ## Teaching Experience
 
