@@ -15,23 +15,31 @@ redirect_from:
 
 ## Research Experience
 
-* AI Research Intern, AI Singapore & VISTEC, Part-time, Singapore, April 2025 -- Present
-  * Participating in Southeast Asian LLM research.
-  * Translated instruction-following datasets for Burmese LLM evaluation.
-  * Built evaluation datasets for seven Burmese NLP tasks.
-  * Evaluated Burmese NLP benchmarks for LLMs.
+* Visiting Scholar (Summer Research Intern), WING@NUS Lab, National University of Singapore, Singapore, May 2026 -- July 2026
+  * Developed DIVA (Diversity-Informed Visual Active Learning), an active learning framework for generative Vision-Language Models (VLMs) that combines model uncertainty filtering with visual diversity clustering on final-layer hidden states.
+  * Applied DIVA to low-resource cursive OCR for historical Jawi script, addressing language bias toward Arabic, visual degradation, and data inefficiency in VLM fine-tuning.
+  * Benchmarked DIVA against existing active learning methods on historical Jawi document line datasets.
+  * Achieved a Character Error Rate (CER) of 10.5% on degraded images using only 50% of labeled data, versus 275.6% for random active selection.
+  * Conducted research under the supervision of Assoc. Prof. Dr. Min-Yen Kan and PhD candidate Tongyao Zhu.
 
-* Machine Learning Engineer, Looloo Technology, Part-time, Bangkok, Thailand, June 2025 -- Dec 2025
+* Machine Learning Engineer, Looloo Technology, Part-time, Bangkok, Thailand, June 2025 -- Present
   * Finetuned Flow Matching Transformer models for Thai TTS.
   * Finetuned speech-augmented language modeling for Thai language.
   * Created synthetic Thai speech datasets with 25k sentences using Thai TTS.
   * Built evaluation pipelines for Thai TTS systems.
+  * Conduted contrastive decoding experiments for the Qwen3-ASR model on Thai language speech recognition.
 
 * Lab. Member, Language Understanding Laboratory, Part-time, Remote, June 2022 -- Present
   * Built large-scale Myanmar corpora for OCR and language modeling.
   * Supervised speech corpus creation for the medical domain.
   * Fine-tuned transformer models for sequence and token classification tasks.
   * Reproduced experiments for myNLP, the first Burmese NLP toolkit.
+
+* AI Research Intern, AI Singapore & VISTEC, Part-time, Singapore, April 2025 -- April 2026
+  * Participating in Southeast Asian LLM research.
+  * Translated instruction-following datasets for Burmese LLM evaluation.
+  * Built evaluation datasets for seven Burmese NLP tasks.
+  * Evaluated Burmese NLP benchmarks for LLMs.
 
 ## Achievements
 
