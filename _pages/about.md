@@ -11,13 +11,14 @@ I'm fortunate to be advised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/y
 
 You can find my full [CV here](/cv/). I am also open to research collaborations across the areas my research spans. You can find my ongoing projects on my [Group](/group/) page.
 
-> **I am actively seeking MS-PhD or PhD opportunities for Fall 2027 admission, focused on low-resource NLP for social intelligence.**
+> **I am actively seeking MS-PhD or PhD opportunities for Fall 2027 admission, focused on Natural Language Processing and Computational Communication.**
 
 ## Research Interest
 
-- Low-resource NLP and resource creation for underrepresented languages
-- Multilingual, multicultural, and multimodal LLM benchmarking
-- Large Language Models based Reasoning
+- Natural Language Processing
+- Large Language Models
+- Computational Communication
+- AI for Software Engineering
 
 ## News
 * [17th Aug 2026] Our paper [myMediWhisper](https://arxiv.org/abs/2608.11036) got accepted to ICNLSP 2026 at Italy!
