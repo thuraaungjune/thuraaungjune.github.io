@@ -5,7 +5,7 @@ author_profile: true
 ---
 I am an undergraduate student in Software Engineering (Artificial Intelligence - Research Track) at King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand. 
 
-I work on language technology for low-resource languages, especially Burmese and other Southeast Asian languages. I build Burmese NLP resources at [NECTEC](https://www.nectec.or.th/), collaborate with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/) on Southeast Asian LLMs, and previously worked on Thai speech systems at Looloo Technology. Most recently, I was a summer 2026 research intern at [WING@NUS Lab](https://wing.comp.nus.edu.sg/), National University of Singapore, where I worked on active learning approaches for historical Jawi OCR using VLMs .
+I work on language technology for low-resource languages, especially Burmese and other Southeast Asian languages. I build Burmese NLP resources at [NECTEC](https://www.nectec.or.th/), collaborate with [AISG](https://aisingapore.org/) and [VISTEC](https://www.vistec.ac.th/) on Southeast Asian LLMs, and previously worked on Thai speech systems at Looloo Technology. Most recently, I was a summer 2026 research intern at [WING@NUS Lab](https://wing.comp.nus.edu.sg/), National University of Singapore, where I worked on active learning approaches for historical Jawi OCR using Vision Language Models .
 
 Across these projects, I build and evaluate models in data-scarce settings, with a focus on generalization and robustness. Going forward, I want to make multimodal AI culturally grounded for the Global South: models that retrieve culturally relevant content and generate images and videos that faithfully represent the communities they depict.
 
