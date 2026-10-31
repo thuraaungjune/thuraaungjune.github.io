@@ -20,7 +20,7 @@ You can find my full [CV here](/cv/). I am also open to research collaborations 
 - **Natural Language and Speech Processing**: low-resource languages, especially Burmese and Southeast Asian languages; benchmarks, corpora, and speech recognition.
 - **Multimodal Large Language Models**: models that connect language with speech, images, and video.
 - **Cultural Alignment**: multimodal cultural retrieval and cultural faithfulness in image and video generation, with a focus on the Global South.
-- **Trustworthy AI**: verifiable code synthesis with LLMs (e.g., Dafny programs with formal guarantees).
+- **Trustworthy AI**: verifiable code synthesis with LLMs (FYP Research).
 
 ## News
 * [17th Aug 2026] Our paper [myMediWhisper](https://arxiv.org/abs/2608.11036) got accepted to ICNLSP 2026 at Italy!
