@@ -9,7 +9,7 @@ My research spans Burmese NLP at [NECTEC](https://www.nectec.or.th/), Southeast 
 
 I'm fortunate to be advised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC, [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) during my AISG internship, and Assoc. Prof. Dr. Min-Yen Kan and Tongyao Zhu during my summer visit to WING@NUS. I was also supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Htet Aung (Mahidol University) during my work at Looloo Technology. At KMITL, I am supervised by Asst. Prof. Dr. Natthapong Jungteerapanich for FYP project.
 
-You can find my full [CV here](/cv/). I am also open to research collaborations across the areas my research spans. You can find my ongoing projects on my [Group](/group/) page.
+You can find my full [CV here](/cv/). I am also open to research collaborations across the areas my research spans.
 
 > **I am actively seeking MS-PhD or PhD opportunities for Fall 2027 admission, focused on Natural Language Processing and Computational Communication.**
 
