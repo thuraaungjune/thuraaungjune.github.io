@@ -9,7 +9,7 @@ I work on language technology for low-resource languages, especially Burmese and
 
 Across these projects, I build and evaluate models in data-scarce settings, with a focus on generalization and robustness. Going forward, I want to make multimodal AI culturally grounded for the Global South: models that retrieve culturally relevant content and generate images and videos that faithfully represent the communities they depict.
 
-I'm fortunate to be advised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC, [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) at AISG, with whom I continue to collaborate, and Assoc. Prof. Dr. Min-Yen Kan and Tongyao Zhu during my summer visit to WING@NUS. I was also supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Htet Aung (Mahidol University) during my work at Looloo Technology. At KMITL, I am supervised by Asst. Prof. Dr. Natthapong Jungteerapanich for FYP Research Track.
+I'm fortunate to be advised by [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) at NECTEC, [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/) at AISG, with whom I continue to collaborate, and Assoc. Prof. Dr. Min-Yen Kan and Tongyao Zhu during my summer visit to WING@NUS. I was also supervised by [Asst. Prof. Dr. Titipat Achakulvisut](https://biodatlab.github.io/people/titipat) and Dr. Zaw Htet Aung (Mahidol University) during my work at Looloo Technology. At KMITL, I am supervised by Asst. Prof. Dr. Natthapong Jungteerapanich for FYP Research Track focusing on Trustworthy AI for Software Engineering.
 
 You can find my full [CV here](/cv/). I am also open to research collaborations across the areas my research spans.
 
@@ -20,7 +20,7 @@ You can find my full [CV here](/cv/). I am also open to research collaborations 
 - **Natural Language and Speech Processing**: low-resource languages, especially Burmese and Southeast Asian languages; benchmarks, corpora, and speech recognition.
 - **Multimodal Large Language Models**: models that connect language with speech, images, and video.
 - **Cultural Alignment**: multimodal cultural retrieval and cultural faithfulness in image and video generation, with a focus on the Global South.
-- **AI for Software Engineering**: verifiable code synthesis with small LLMs (e.g., Dafny programs with formal guarantees).
+- **Trustworthy AI**: verifiable code synthesis with LLMs (e.g., Dafny programs with formal guarantees).
 
 ## News
 * [17th Aug 2026] Our paper [myMediWhisper](https://arxiv.org/abs/2608.11036) got accepted to ICNLSP 2026 at Italy!
